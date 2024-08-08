@@ -31,3 +31,7 @@ Program Requirements:
 - Perform the selected operation and display the result
 - Handle invalid inputs and division by zero errors
 - Provide a simple and user-friendly interface
+
+OUTPUT
+
+![simple_calculator_op](https://github.com/user-attachments/assets/ecbdd2e8-cc7d-47ee-bebf-0a2015227d4a)
